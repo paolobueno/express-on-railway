@@ -4,3 +4,5 @@ tmp
 dump.rdb
 doc
 coverage.html
+.sublime-project
+.sublime-workspace
