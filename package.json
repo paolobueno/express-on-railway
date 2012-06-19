@@ -18,7 +18,6 @@
     "yaml-js": ">= 0.0.2",
     "coffee-script": ">= 1.1.1",
     "ejs-ext": ">= 0.0.8",
-    // "jade-ext": ">= 0.0.5",
     "jade-ext": "git://github.com/paolobueno/jade-ext.git",
     "railway-routes": ">= 0.0.6",
     "seedjs": "*",
